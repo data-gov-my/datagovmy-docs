@@ -1,0 +1,13 @@
+{
+    "title": "Documentation",
+    "root": true,
+    "pages": [
+        "---Overview---",
+        "philosophy",
+        "outcomes",
+        "prerequisites",
+        "---Understanding Data---",
+        "data-general",
+        "agencies"
+    ]
+}
